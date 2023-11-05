@@ -1,2 +1,2 @@
 # SQL-Practice
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+Having my solutions to questions from Leetcode
